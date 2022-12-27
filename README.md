@@ -3,39 +3,26 @@ Overall, Africa has been bedeviled with a range of complex health challenges, in
 
 
 ## Results from this Analysis (*highlights*)
-Africa rated second, after Asia, among the Continents with the highest record of death from the various diseases. In Africa, Nigeria topped the list.
 
-Malaria, HIV/AIDS and Diarrheal were the major diseases that caused death in Africa.
 
-Cardiovascular disease, Neoplasm and Chronic respiratory diseases were not major diseases that caused death in Africa.
-
-Over the years, the record of average death was on the increase in the World. 
-
-Africa also recorded population increase until 2003, when it took a turn.
-
-Average death record increased drastically in the World in 2017.
-
-Moving further to death by Age-group, Africa recorded the highest number of death by Age-group in the age bracket of  `Under 5 years`.
-
-The lowest death by age-group was in the age bracket of `5 - 14 years`.
-
-The highest death by Age-group in the World was recorded in the age bracket `70 years +`.
-
-Asia recorded the highest amount of population increase within the period under study.
-
-Africa followed in the second position. Within the Africa Continent, Nigeria recorded the highest increase in population growth, with Egypt, Ethiopia and Congo.
-
-The population of the World increased until 2017, the same time the highest death record started. 
-
-In the area of Medical Doctors per 10,000 population, there was a ratio of `21` Medical Doctors to `10,000` population in the world, and `3` Medical Doctors to `10,000` population in Africa.
-
-Oceania recorded the highest fraction of GDP that was spent on health, while Africa bore the lowest.
-
-Asia performed worse than Africa. Africa showed `high` population with `low` current health expenditure.
-
-The relationship between population (historic estimate), death by cause and current health expenditure, Asia had `high` population and death, with `low` health expenditure.
-
-As the record of the average death increased, also did the current health expenditure in the World. But when we came to Africa, there seemed to be no establised relationship between the recorded average death and current health expenditure.
+*   Africa rated second, after Asia, among the Continents with the highest record of death from the various diseases. 
+*   In Africa, Nigeria topped the list with the highest record of death from the various diseases.
+*   Malaria, HIV/AIDS and Diarrheal were the major diseases that caused death in Africa.
+*   Cardiovascular disease, Neoplasm and Chronic respiratory diseases were not major diseases that caused death in Africa.
+*   Over the years, the record of average death was on the increase in the World. 
+*   Africa also recorded population increase until 2003, when it took a turn.
+*   Average death record increased drastically in the World in 2017.
+*   Moving further to death by Age-group, Africa recorded the highest number of death by Age-group in the age bracket of  `Under 5 years`.
+*   The lowest death by age-group was in the age bracket of `5 - 14 years`.
+*   The highest death by Age-group in the World was recorded in the age bracket `70 years +`.
+*   Asia recorded the highest amount of population increase within the period under study.
+*   Africa followed in the second position. Within the Africa Continent, Nigeria recorded the highest increase in population growth, with Egypt, Ethiopia and Congo.
+*   The population of the World increased until 2017, the same time the highest death record started. 
+*   In the area of Medical Doctors per 10,000 population, there was a ratio of `21` Medical Doctors to `10,000` population in the world, and `3` Medical Doctors to `10,000` population in Africa.
+*   Oceania recorded the highest fraction of GDP that was spent on health, while Africa bore the lowest.
+*   Asia performed worse than Africa. Africa showed `high` population with `low` current health expenditure.
+*   The relationship between population (historic estimate), death by cause and current health expenditure, Asia had `high` population and death, with `low` health expenditure.
+*   As the record of the average death increased, also did the current health expenditure in the World. But when we came to Africa, there seemed to be no establised relationship between the recorded average death and current health expenditure.
 
 
 ## Recommendation
